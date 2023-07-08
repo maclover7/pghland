@@ -1,8 +1,8 @@
-usedesc,EXCELLENT,GOOD,AVERAGE,FAIR,POOR,UNSOUND,VERY POOR
-FOUR FAMILY,0,0,0.0,1.0,0.0,0.0,0.0
-MOBILE HOME,0,0,0.0,0.0,1.0,0.0,0.0
-ROWHOUSE,0,0,9.0,24.0,7.0,5.0,1.0
-SINGLE FAMILY,0,0,147.0,182.0,48.0,20.0,11.0
-THREE FAMILY,0,0,1.0,5.0,0.0,0.0,0.0
-TOWNHOUSE,0,0,3.0,0.0,0.0,0.0,0.0
-TWO FAMILY,0,0,10.0,11.0,3.0,2.0,1.0
+usedesc,Excellent,Good,Average,Fair,Poor,Unsound,Very poor
+Four family,0,0,0.0,1.0,0.0,0.0,0.0
+Mobile home,0,0,0.0,0.0,1.0,0.0,0.0
+Rowhouse,0,0,9.0,24.0,7.0,5.0,1.0
+Single family,0,0,147.0,182.0,48.0,20.0,11.0
+Three family,0,0,1.0,5.0,0.0,0.0,0.0
+Townhouse,0,0,3.0,0.0,0.0,0.0,0.0
+Two family,0,0,10.0,11.0,3.0,2.0,1.0
