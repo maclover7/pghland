@@ -4,8 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-jupyterlab = "*"
-pandas = "*"
+geopandas="*"
+jupyterlab="*"
+pandas="*"
 psycopg2="*"
 sqlalchemy="*"
 
