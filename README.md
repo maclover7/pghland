@@ -1,8 +1,8 @@
 # pghland
 
-This analysis was used for a Pittsburgh Union Progress article, titled
-["A 'huge problem': Thousands of city and URA properties stuck in limbo,
-off the market and tax rolls]()
+This analysis was used for the Pittsburgh Union Progress articles:
+
+* ["A ‘huge problem’: Thousands of city and URA properties stuck in limbo, off the market and tax rolls"]()
 
 ### Development
 
