@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 geopandas="*"
 jupyterlab="*"
+matplotlib="*"
 pandas="*"
 psycopg2="*"
 sqlalchemy="*"
